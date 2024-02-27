@@ -1,4 +1,4 @@
-package com.example.uptrain;
+package com.example.uptrain.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
